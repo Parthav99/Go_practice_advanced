@@ -58,4 +58,7 @@ func main() {
 	str := "Hello World"
 	checkType(str)
 
+	flt := 9.0
+	checkType(flt)
+
 }
